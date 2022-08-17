@@ -6,4 +6,6 @@
 - 💬 Ask me about RFM & CRM and feature engineering
 - 📫 How to reach me: https://www.linkedin.com/in/buraksayilar/  &   bcsayilar@gmail.com
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=cemsayilar&show_icons=true">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=cemsayilar&show_icons=true">
+[![](https://img.shields.io/github/followers/cemsayilar?style=social)](https://www.github.com/cemsayilar)
+![Profile View Counter](https://komarev.com/ghpvc/?username=cemsayilar)
