@@ -6,5 +6,5 @@
 - 💬 Ask me about RFM & CRM and feature engineering
 - 📫 How to reach me: https://www.linkedin.com/in/buraksayilar/  &   bcsayilar@gmail.com
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=cemsayilar&show_icons=true">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=cemsayilar&show_icons=true&theme=vue">
 
